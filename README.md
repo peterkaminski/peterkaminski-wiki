@@ -6,6 +6,10 @@ I'm moving to this wiki website from [peterkaminski.com](http://peterkaminski.co
 
 This wiki is built and maintained using the [Massive Wiki](https://massive.wiki/) tools and patterns.
 
-Look for more as it grows!
+Some topics:
 
--- Peteß
+- [[Patterns for Organizing Information]]
+
+Look for more as this wiki grows!
+
+-- Pete
