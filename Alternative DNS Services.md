@@ -7,7 +7,8 @@
 - [Google Public DNS](https://developers.google.com/speed/public-dns) aka 8.8.8.8
 - [Quad9](https://quad9.com/) aka 9.9.9.9
 
-## Overview (by [[ChatGPT Dec 15 Version]])
+## Overview
+_by [[ChatGPT Dec 15 Version]], 2022-12-29_
 
 Q: Why would I use Alternative DNS services?
 
