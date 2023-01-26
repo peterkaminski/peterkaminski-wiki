@@ -1,8 +1,9 @@
 # Face Forward v1
 
-_Last edited: 2023-01-26 by [Peter Kaminski](mailto:kaminski@istori.com). Please email me with comments or questions._ [permalink](https://peterkaminski.wiki/face_forward_v1)
+_Last edited: 2023-01-26 by [Peter Kaminski](mailto:kaminski@istori.com). Please email me with comments or questions._  
+[permalink](https://peterkaminski.wiki/face_forward_v1) to this page
 
-To see the 144 synthesized human faces of Face Forward v1 at full 768x512 pixel resolution, visit this Flickr album: [Face Forward v1 - Flickr](https://www.flickr.com/photos/pixelthesia/albums/72177720305516441).
+To see the 144 synthesized human faces of Face Forward v1 at full 768x512 pixel resolution, visit this Flickr album: [Face Forward v1 - Flickr](https://www.flickr.com/photos/pixelthesia/sets/72177720305544773).
 
 Here is a montage of the 144 synthesized human faces of Face Forward v1. See below for more information about the project.
 
