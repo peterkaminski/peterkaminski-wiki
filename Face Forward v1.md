@@ -11,7 +11,7 @@ Here is a montage of the 144 synthesized human faces of Face Forward v1. See bel
 
 Face Forward v1 is a small project to briefly assess how good current versions of Stable Diffusion and wavymulder's Analog Diffusion model are at synthesizing portraits of human faces.
 
-I wanted to generate reasonably realistic faces, with a diversity of types of faces and photography styles. I wanted to see how good the faces would be without anything fancy; so I used fairly minimal prompts, didn't use fancy prompt engineering, didn't use any face improvement post-processing, and didn't upscale the images.
+I wanted to generate reasonably realistic faces, with a diversity of types of faces and photography styles. I wanted to see how good the faces would be without anything fancy; so I used fairly minimal prompts, didn't use fancy prompt engineering, didn't use any face improvement post-processing, and didn't upscale the images. Each image is as-generated, no fixes at all.
 
 I cherry picked images that I felt hit sort of a "95%" quality mark. In cherry picking, I included some images that need rectangular cropping to remove stray objects or a duplicate person, because that's an easy transform. I didn't crop the images, so you can see the entire as-generated set. I also included some images that had some incidental problems with non-face objects - hair, hands, jewelry, or background objects. Hiding or masking those things is harder than a rectangular transform, but still not too hard with straightforward image editing techniques.
 
