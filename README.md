@@ -8,7 +8,9 @@ This wiki is built and maintained using the [Massive Wiki](https://massive.wiki/
 
 Some topics:
 
+- [[Face Forward v1]] - 144 synthetically-generated human faces
 - [[Patterns for Organizing Information]]
+- [[Alternative DNS Services]]
 
 Look for more as this wiki grows!
 
