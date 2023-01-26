@@ -2,10 +2,11 @@
 
 _Last edited: 2023-01-26 by [Peter Kaminski](mailto:kaminski@istori.com). Please email me with comments or questions._ [permalink](https://peterkaminski.wiki/face_forward_v1)
 
-![[Face Forward v1 montage.jpg]]
-_montage of the 144 synthesized human faces of Face Forward v1_
+To see the 144 synthesized human faces of Face Forward v1 at full 768x512 pixel resolution, visit this Flickr album: [Face Forward v1 - Flickr](https://www.flickr.com/photos/pixelthesia/albums/72177720305516441).
 
-Flickr album with full 768x512 resolution images: [Face Forward v1](https://www.flickr.com/photos/pixelthesia/albums/72177720305516441)
+Here is a montage of the 144 synthesized human faces of Face Forward v1. See below for more information about the project.
+
+![[Face Forward v1 montage.jpg]]
 
 Face Forward v1 is a small project to briefly assess how good current versions of Stable Diffusion and wavymulder's Analog Diffusion model are at synthesizing portraits of human faces.
 
