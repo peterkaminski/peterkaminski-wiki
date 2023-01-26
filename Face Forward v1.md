@@ -25,7 +25,7 @@ None of the images is 100% perfect; they all need touch-up work of one kind or a
 
 I used [Draw Things](https://drawthings.ai/) version 1.20230114.2 on a MacBook Pro (14-inch, 2021) with an M1 Max CPU and lots of memory and disk space. Each image took about 35 seconds to generate.
 
-Steps: 35, Sampler: DPM++ 2M Karras, Guidance Scale: 7.5, Size: 768x512, Model: analog_v1_f16.ckpt (wavymulder's [Analog Diffusion](https://huggingface.co/wavymulder/Analog-Diffusion) model, I believe).
+Steps: 35, Sampler: DPM++ 2M Karras, Guidance Scale: 7.5, Size: 768x512, Model: analog_v1_f16.ckpt (wavymulder's [Analog Diffusion](https://huggingface.co/wavymulder/Analog-Diffusion) model).
 
 ## Prompt Keywords
 
