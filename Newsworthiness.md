@@ -1,6 +1,6 @@
 # Newsworthiness
 
-Answers by [[ChatGPT Jan 9 Version]]. May not be correct or comprehensive.
+Answers by [[ChatGPT Jan 9 Version]], 2023-01-30. May not be correct or comprehensive.
 
 Q: What makes something newsworthy?
 
