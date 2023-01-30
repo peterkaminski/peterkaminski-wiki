@@ -8,7 +8,7 @@
 - [Quad9](https://quad9.com/) aka 9.9.9.9
 
 ## Overview
-_by [[ChatGPT Dec 15 Version]], 2022-12-29_
+_Answers by [[ChatGPT Dec 15 Version]], 2022-12-29. Answers checked by Peter Kaminski. They seem reasonable, but may not be correct or comprehensive._
 
 Q: Why would I use Alternative DNS services?
 
