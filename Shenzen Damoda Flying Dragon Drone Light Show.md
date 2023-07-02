@@ -1,4 +1,8 @@
+# Shenzen Damoda "Flying Dragon" Drone Light Show
+
 Maybe you've seen the cool "flying dragon" drone light show from the June 2023 Dragon Boat Show in Hong Kong.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pZ-zJ0Vq0FU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The company providing the drones and control system is [Shenzen Damoda](https://en.dmduav.com/). This is the [3rd generation (V3) of the Damoda drone systems](https://en.dmduav.com/item/light-show-drone/outdoor-v2-formation-uav) (tech specs, en.dmduav.com).
 
