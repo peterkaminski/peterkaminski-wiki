@@ -12,7 +12,7 @@ Obligatory note: there are ongoing political tensions between USA, China, Shangh
 
 Here are various videos, all hosted on YouTube:
 
-- [Damoda's vid of flying dragon (original)](https://www.youtube.com/watch?v=pZ-zJ0Vq0FU)
+- [Damoda's vid of flying dragon (original)](https://www.youtube.com/watch?v=pZ-zJ0Vq0FU) (same as above)
 - [Damoda's vid of flying dragon (slightly cropped)](https://www.youtube.com/watch?v=ycCtRWL8MCI)
 - [Unpacking drones (daylight view)](https://www.youtube.com/watch?v=lMYb7Go1uq4)
 - [V3 takeoff (night)](https://www.youtube.com/shorts/ogm3iF_oyp4)
