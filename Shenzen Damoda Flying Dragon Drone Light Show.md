@@ -10,7 +10,7 @@ The dragon is cool because, well, it's a dragon! But also, it's got nice color d
 
 Obligatory note: there are ongoing political tensions between USA, China, Shanghai, Hong Kong, etc. Consume media with due care.
 
-Here are various videos, all hosted on YouTube:
+Here are various videos, all hosted on YouTube. Notes: dragon videos are sped up; not all videos are necessarily from the Dragon Boat Show itself, although they show the same drone systems.
 
 - [Damoda's vid of flying dragon (original)](https://www.youtube.com/watch?v=pZ-zJ0Vq0FU) (same as above)
 - [Damoda's vid of flying dragon (slightly cropped)](https://www.youtube.com/watch?v=ycCtRWL8MCI)
