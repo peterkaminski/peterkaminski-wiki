@@ -2,15 +2,11 @@
 
 Hi, I'm Peter Kaminski. Welcome to my wiki.
 
-I'm moving to this wiki website from [peterkaminski.com](http://peterkaminski.com/), where I haven't been posting actively for some time. I look forward to resuming more active wiki-blogging here.
+I'm moving to this wiki website from [peterkaminski.com](http://peterkaminski.com/), where I haven't been posting actively for years and years. I look forward to resuming more active wiki-blogging here, but for now, I've barely set the site up.
+
+For now, use the "All Pages" and "Search" at the top of the pages to navigate.
 
 This wiki is built and maintained using the [Massive Wiki](https://massive.wiki/) tools and patterns.
-
-Some topics:
-
-- [[Face Forward v1]] - 144 synthetically-generated human faces
-- [[Patterns for Organizing Information]]
-- [[Alternative DNS Services]]
 
 Look for more as this wiki grows!
 
