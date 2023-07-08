@@ -28,5 +28,5 @@ Where shall we go from here?
 
 Keywords to look for: humane, humanity, human connection, scale-free, decentralization, federation
 
-Link to this post: <https://peterkaminski/wiki/whither_microblogging>
+Link to this post: <https://peterkaminski.wiki/whither_microblogging>
 
