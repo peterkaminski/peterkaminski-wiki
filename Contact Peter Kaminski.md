@@ -17,7 +17,7 @@ If you don't want to use one of the addresses above, you can use this form to se
 
   <p>
     <label for="message">Your Message:</label><br>
-    <textarea style="padding: .7em 1em .7em 1em" id="message" name="message" rows="4" cols="50"></textarea>
+    <textarea style="padding: .7em" id="message" name="message" rows="4" cols="50"></textarea>
   </p>
 
   <p>
