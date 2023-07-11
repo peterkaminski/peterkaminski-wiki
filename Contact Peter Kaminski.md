@@ -3,7 +3,6 @@
 ## Addresses
 
 * email: [kaminski@istori.com](mailto:kaminski@istori.com)
-* Signal or SMS: +1-650-918-6101
 * Telegram: <https://t.me/peterkaminski>
 
 ## Contact Me Form
