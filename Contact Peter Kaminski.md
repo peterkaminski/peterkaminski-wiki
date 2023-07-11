@@ -5,7 +5,7 @@
 * email: [kaminski@istori.com](mailto:kaminski@istori.com)
 * Telegram: <https://t.me/peterkaminski>
 
-## Contact Me Form
+## Contact Form
 
 If you don't want to use one of the addresses above, you can use this form to send me a message. Thanks for being in touch!
 
