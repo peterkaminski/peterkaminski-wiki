@@ -4,4 +4,6 @@
 [Search](/search.html)  
 [All Pages](/all-pages.html)  
 
-[[Contact Peter Kaminski|Contact Me]]  
+---
+
+[[Contact Peter Kaminski]]  

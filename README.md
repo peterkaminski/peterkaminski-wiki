@@ -6,7 +6,9 @@ I'm moving to this wiki website from [peterkaminski.com](http://peterkaminski.co
 
 For now, use the "All Pages" and "Search" at the top of the pages to navigate.
 
-This wiki is built and maintained using the [Massive Wiki](https://massive.wiki/) tools and patterns.
+This wiki is built and maintained using [Massive Wiki](https://massive.wiki/) tools and patterns.
+
+To find out how to get in touch, click the "Contact Peter Kaminski" link at the left, or my name at the bottom of any page here.
 
 Look for more as this wiki grows!
 
