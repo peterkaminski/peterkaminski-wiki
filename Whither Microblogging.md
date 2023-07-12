@@ -1,6 +1,6 @@
 # Whither Microblogging?
 
-Last updated: 2023-07-08
+Created 2023-07-08, last updated 2023-07-11.
 
 Whither microblogging? How do you connect people enough, but not too much? How do you help people find other people they should know, but keep people from hurting other people they don't know (and therefore, don't think of as people)?
 
@@ -26,7 +26,22 @@ The truth is that the Twitter we knew and loved wasn't a set of technical featur
 
 Where shall we go from here?
 
+There are promising starts (with my addresses):
+
+- Mastodon, <https://toolsforthought.rocks/@peterkaminski>
+- Bluesky, <https://bsky.app/profile/peterkaminski.wiki> (closed beta)
+- Nostr, npub1peterka3vphw8z8ls7hpl9c9lxh8ww4la36pf97sycdvtantzu8s97x3za
+
+Each of these is already successful in their own way, at smaller scale. And scale for scale's sake is the wrong goal. But it'll be a while before they're big like (semi-decentralized) email or (centralized, bad news) Twitter or Facebook.
+
+What should we have as goals?
+
+And at least as importantly, what should we have as anti-goals?
+
 Keywords to look for: humane, humanity, human connection, scale-free, decentralization, federation
 
 Link to this post: <https://peterkaminski.wiki/whither_microblogging>
 
+## Revision history
+
+- 2023-07-11: Added mention of Nostr, Mastodon, Bluesky, and questions of goals and anti-goals. Thx [John Abbe](https://mastodon.social/@slowenough) for [comments on this page](https://mastodon.social/@slowenough/110696160503506619).
