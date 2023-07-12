@@ -8,9 +8,9 @@ I chose a simple question I had asked [[ChatGPT May 24 Version]] (GPT-3.5) a few
 
 The interesting flub from [[Claude]]: While discussing words like "pedestrian - lacking inspiration or excitement, dull", I asked it to write a short story with the words, and one of the sentences it produced started, "As she walked along the pedestrian sidewalk...."
 
-"Pedestrian sidewalk" is a reasonable English phrase, but it's the wrong use of "pedestrian". Rather than "dull", it's the "someone who is walking meaning".
+"Pedestrian sidewalk" is a reasonable English phrase, but it's the wrong use of "pedestrian" in this exercise. Rather than "dull", it's the "someone who is walking" meaning.
 
-I asked it, "Why did you say 'pedestrian sidewalk'?", and it stayed sort of confused, and offered to replace "pedestrian", rather than rewriting the sentence clause: "As she walked along the routine sidewalk...."  "Routine sidewalk" is rather worse!
+I asked Claude, "Why did you say 'pedestrian sidewalk'?", and it stayed sort of confused, and offered to replace "pedestrian", rather than rewriting the sentence clause: "As she walked along the routine sidewalk...."  "Routine sidewalk" is rather worse!
 
 GPT-3.5 at least doesn't make that mistake, and GPT-4 has the most natural story. I wonder if the GPT-4's rumored [mixture of experts](https://en.wikipedia.org/wiki/Mixture_of_experts) (Wikipedia) architecture might help it avoid making something like the "pedestrian sidewalk" mistake.
 
