@@ -12,7 +12,7 @@ If you don't want to use one of the addresses above, you can use this form to se
 <form name="peterkaminski.wiki" method="POST" data-netlify="true">
   <!-- This form is detected and handled automatically when deployed through Netlify. Make sure to enable outgoing notifications and form detection in the "Forms" section of your Netlify configuration for this site. See https://docs.netlify.com/forms/setup/ for setup details. -->
 
-  <input type="hidden" name="subject" value="Hello from %{formName} (%{submissionId})" />
+  <input type="hidden" name="subject" value="Hello from %{formName} (%{submissionId})">
 
   <p>
     <label for="message">Your Message:</label><br>
