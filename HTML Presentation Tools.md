@@ -17,3 +17,4 @@ The people behind reveal.js also have a commercial service, [Slides.com](https:/
 ## Other lists
 
 - [Presentation tools \- anarcat](https://anarc.at/blog/2020-09-30-presentation-tools/)
+- [List of markdown presentation tools](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8)
