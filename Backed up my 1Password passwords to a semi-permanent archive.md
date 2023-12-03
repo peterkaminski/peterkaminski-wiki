@@ -42,7 +42,7 @@ gpg --decrypt file.csv.gpg > file.csv
 <html><body><pre>
 Output created with:
 
-export FN=1PasswordExport-ZW3UZGGWWJDKZHAXISTKPISPL4-20231203-072003.csv.gpg
+export FN=1PasswordExport-MASKED-20231203-072003.csv.gpg
 cat $FN | od -t x1 -An -v | tr -d ' \n' | fold -w 96 >body.html
 cat header.html body.html footer.html >$FN.html
 
