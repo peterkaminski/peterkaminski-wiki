@@ -5,10 +5,10 @@ Day 2 was building.
 Here were my goals:
 
 * {{peterkaminski}}
-	* ~~put Federated Auth Network deets in #dev (hoping the IW and FAN communities bump into each other a little more)~~
-	* ~~show {{ihudson}} how to get a website up with MasWiki~~
-	* work on setting up [[https://indieweb.org/Webmention](https://indieweb.org/Webmention) Webmention] send and/or receive to/from Massive Wiki
-		* ~~Webmention sent from~~ [~~https://developer.massive.wiki/working_on_webmention,_2023-12-17~~](https://developer.massive.wiki/working_on_webmention,_2023-12-17) ~~to~~ [~~https://ragt.ag~~](https://ragt.ag/) using [https://telegraph.p3k.io/](https://telegraph.p3k.io/)
+	* [x] put Federated Auth Network deets in #dev (hoping the IW and FAN communities bump into each other a little more)
+	* [x] show {{ihudson}} how to get a website up with MasWiki
+	* [ ] work on setting up [[https://indieweb.org/Webmention](https://indieweb.org/Webmention) Webmention] send and/or receive to/from Massive Wiki
+		* [x] Webmention sent from [https://developer.massive.wiki/working_on_webmention,_2023-12-17](https://developer.massive.wiki/working_on_webmention,_2023-12-17) to [https://ragt.ag](https://ragt.ag/) using [https://telegraph.p3k.io/](https://telegraph.p3k.io/)
 
 And links:
 
