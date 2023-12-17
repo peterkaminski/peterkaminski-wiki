@@ -1,5 +1,9 @@
 # What's New
 
+## 2023-12-17
+
+- [[IndieWebCamp San Diego 2023, Day 2]]
+
 ## 2023-07-12
 
 - [[Quotidian Large Language Models]] created.
