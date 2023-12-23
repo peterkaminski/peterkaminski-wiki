@@ -37,4 +37,6 @@ Some reading:
 - [The poster’s guide to the internet of the future](https://www.theverge.com/2023/10/23/23928550/posse-posting-activitypub-standard-twitter-tumblr-mastodon) (The Verge, 2023-10-23)
 - [POSSE](https://indieweb.org/POSSE) (IndieWeb, wiki page)
 - [Cross-posting to Twitter, Medium, Mastodon, and more](https://help.micro.blog/t/cross-posting-to-twitter-medium-mastodon-and-more/85) (Micro.blog Help Center, 2021-03-08 et seq.)
+- [How Cory Doctorow publishes Pluralistic](https://pluralistic.net/2021/01/13/two-decades/) (Cory Doctorow, 2021-01-13, xlnt description of Cory's publishing process)
+  - [Pluralistic is two. Still at it!](https://doctorow.medium.com/pluralistic-is-two-e3606aaa5ac9) (Cory Doctorow, 2022-02-19, POSSE Cory's way)
 - [Why I'm cross-posting](https://larand.one/2023/12/20/why-im-crossposting.html) (Larry Anderson, 2023-12-20) (love the ∞ symbol for the permalink!)
