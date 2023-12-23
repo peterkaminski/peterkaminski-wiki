@@ -1,5 +1,11 @@
 # What's New
 
+This is a manually-maintained list of new things on this wiki. Since it's not automated, it may be missing things.
+
+## 2023-12-23
+
+- [[Social Media Is Fractured]]
+
 ## 2023-12-17
 
 - [[IndieWebCamp San Diego 2023, Day 2]]
