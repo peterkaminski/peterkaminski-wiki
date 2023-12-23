@@ -28,7 +28,7 @@ There are also lively discussion forums elsewhere: Discord, Signal, Telegram, Sl
 
 Note that using each service or federation carries some political / social baggage / "correctness". Do your own research, ask your friends and desired social contacts for their thoughts. Some questions to consider: who owns them? who controls them? what's their business model? who do they let post even though perhaps they shouldn't? who do they effectively censor (explicitly or implicitly) even though perhaps they shouldn't?
 
-Not listed above: Nostr, Threads.
+Not listed above / ask me more about: Nostr, Ghost, Flickr, Threads.
 
 ## Crossposting / POSSE
 
