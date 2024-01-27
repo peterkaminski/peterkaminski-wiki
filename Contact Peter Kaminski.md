@@ -8,6 +8,8 @@
 * Telegram: <https://t.me/peterkaminski>
 * Blue Sky: <https://bsky.app/profile/peterkaminski.wiki>
 * Mastodon: <https://mastodon.social/@peterkaminski>
+* AI 101: <https://ai101.peterkaminski.wiki/>
+* Path Shift People: coming soon!
 
 ## Contact Form
 
