@@ -60,7 +60,7 @@ Consider a range of ground vehicles.
 
 Obsidian is around the Jeep Wrangler level. A great vehicle for around town and on the freeway, but has a little more customizability and technical capability than, say, a Camry. The interface is basically the same as any other car. It's less comfortable than something fancier, but lovable and easy to live with. Maybe you've added a roll bar, some jerry cans of water or fuel, a winch, KC lights, etc. You need to know how and when to use 4WD.
 
-## Pete's "Markdown Ecosytem"
+## Pete's "Markdown Ecosystem"
 
 - Millions of people have their own preferred ecosystem, this is mine
 - [Massive Wiki](https://massive.wiki/) - a wiki ecosystem that provides classic wiki utility, with a plurality of tools and processes that enable decentralization and federation of the pages; public benefit, not for profit
@@ -74,9 +74,15 @@ Obsidian is around the Jeep Wrangler level. A great vehicle for around town and 
 
 ## Resources
 
+### Obsidian
+
 - Pete's sample personal wiki from the talk: [[peterkaminski_sample-personal-wiki-2-20240323-001.zip]] (unzip into a directory, then open with Obsidian or other tools)
 - Massive Wiki community, AI Salon's [Learn and Do with Peter](https://ai101.peterkaminski.wiki/) community
 - [Path Shift People store](https://pathshiftpeople.gumroad.com/) (use GPT Jams code!)
 	- [Obsidian Introduction with Pete](https://pathshiftpeople.gumroad.com/l/obsidian-introduction-with-pete?layout=profile)
 - search YouTube for "Obsidian beginner"; or "Obsidian" and the name of other tools like Notion, Evernote, OneNote, Roam, Scrivener, TiddlyWiki, etc.
 - great people to start with: [Eleanor Konik](https://www.eleanorkonik.com/tag/roundup/),  [Curtis McHale](https://curtismchale.ca/), [Nick Milo](https://www.linkingyourthinking.com/), [Tiago Forte](https://fortelabs.co/)
+
+## AI Art
+
+- [Pretty Pictures with Pete](https://pathshiftpeople.gumroad.com/l/pretty-pictures-with-pete?layout=profile) ~3x/week emails with 9 objectively beautiful images and bonus images, plus archives of full-size images for your enjoyment and non-commercial use
