@@ -2,7 +2,7 @@
 
 **GPT Jams** are hosted by [Anne Murphy](https://www.linkedin.com/in/anne-murphy-philanthropy/) and [Don Wackerly](https://www.linkedin.com/in/don-wackerly-mba-18670012/) of [Empowered Fundraising](https://empoweredfundraiser.com/) Consulting and Coaching.
 
-Pete is presenting on Obsidian, March 23, 2024.
+Pete is presenting on Obsidian, March 23, 2024 as part of a Tech Showcase with other presenters.
 
 ## Peter Kaminski
 
@@ -72,3 +72,11 @@ Obsidian is around the Jeep Wrangler level. A great vehicle for around town and 
   - [Emacs](https://www.gnu.org/software/emacs/) and other software developer tools, open source
   - [Pulsar](https://pulsar-edit.dev/), similar to Obsidian but developer-oriented
 
+## Resources
+
+- Pete's sample personal wiki from the talk: [[peterkaminski_sample-personal-wiki-2-20240323-001.zip]] (unzip into a directory, then open with Obsidian or other tools)
+- Massive Wiki community, AI Salon's [Learn and Do with Peter](https://ai101.peterkaminski.wiki/) community
+- [Path Shift People store](https://pathshiftpeople.gumroad.com/) (use GPT Jams code!)
+	- [Obsidian Introduction with Pete](https://pathshiftpeople.gumroad.com/l/obsidian-introduction-with-pete?layout=profile)
+- search YouTube for "Obsidian beginner"; or "Obsidian" and the name of other tools like Notion, Evernote, OneNote, Roam, Scrivener, TiddlyWiki, etc.
+- great people to start with: [Eleanor Konik](https://www.eleanorkonik.com/tag/roundup/),  [Curtis McHale](https://curtismchale.ca/), [Nick Milo](https://www.linkingyourthinking.com/), [Tiago Forte](https://fortelabs.co/)
