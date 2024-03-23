@@ -17,6 +17,23 @@ Pete is presenting on Obsidian, March 23, 2024 as part of a Tech Showcase with o
 - Markdown-centric, internal linking, tags, huge plugin ecosystem
 - Obsidian Sync, Obsidian Publish
 
+## Obsidian Features
+
+- file navigation
+- text editing (Markdown)
+- left and right sidebars
+- bookmarks
+- search
+- integration with your OS and apps
+- internal links
+- graph view
+- canvas
+- calendar
+- command palette
+- plugins
+	- Git integration
+	- Text Generator
+
 ## Why to learn Obsidian
 
 - to keep personal notes
