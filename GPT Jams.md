@@ -1,8 +1,8 @@
 # Weekend GPT Jam Tech Showcase
 
-**GPT Jams** are hosted by [Anne Murphy](https://www.linkedin.com/in/anne-murphy-philanthropy/) and [Don Wackerly](https://www.linkedin.com/in/don-wackerly-mba-18670012/) of [Empowered Fundraising](https://empoweredfundraiser.com/) Consulting and Coaching.
+**[Weekend GPT Jams](https://linktr.ee/annemurphy)** are hosted by [Anne Murphy](https://www.linkedin.com/in/anne-murphy-philanthropy/) and [Don Wackerly](https://www.linkedin.com/in/don-wackerly-mba-18670012/) of [Empowered Fundraising](https://empoweredfundraiser.com/) Consulting and Coaching, and are always fun and packed with amazing information.
 
-Pete is presenting on Obsidian, March 23, 2024 as part of a Tech Showcase with other presenters.
+Pete presented on Obsidian, March 23, 2024 as part of a Tech Showcase with other presenters.
 
 ## Peter Kaminski
 
@@ -31,8 +31,8 @@ Pete is presenting on Obsidian, March 23, 2024 as part of a Tech Showcase with o
 - calendar
 - command palette
 - plugins
-	- Git integration
-	- Text Generator
+	- Git integration (version control)
+	- Text Generator (GPT-4 writing assistant)
 
 ## Why to learn Obsidian
 
@@ -104,3 +104,8 @@ Obsidian is around the Jeep Wrangler level. A great vehicle for around town and 
 ## AI Art
 
 - [Pretty Pictures with Pete](https://pathshiftpeople.gumroad.com/l/pretty-pictures-with-pete?layout=profile) ~3x/week emails with 9 objectively beautiful images and bonus images, plus archives of full-size images for your enjoyment and non-commercial use
+- coming soon: **Getting to Mastery with Midjourney**
+
+## Contact Pete
+
+See [[Contact Peter Kaminski]]
