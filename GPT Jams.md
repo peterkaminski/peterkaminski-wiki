@@ -37,6 +37,7 @@ Pete is presenting on Obsidian, March 23, 2024.
 - drafts, templates for all sorts of docs and communications
 - client and project documents
 - work and personal task management
+- stuff from the web (bookmarks, pages, files, etc.)
 - non-fiction or fiction books you're writing
 - custom GPT instructions (various versions)
 - all your ChatGPT conversations
