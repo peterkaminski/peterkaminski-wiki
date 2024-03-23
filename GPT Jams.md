@@ -80,6 +80,7 @@ Obsidian is around the Jeep Wrangler level. A great vehicle for around town and 
 - Massive Wiki community, AI Salon's [Learn and Do with Peter](https://ai101.peterkaminski.wiki/) community
 - [Path Shift People store](https://pathshiftpeople.gumroad.com/) (use GPT Jams code!)
 	- [Obsidian Introduction with Pete](https://pathshiftpeople.gumroad.com/l/obsidian-introduction-with-pete?layout=profile)
+- my current best "start with Obsidian from scratch" demo from 2024-03-02: [https://www.youtube.com/watch?v=muTfh9HKkkA&t=4162s](https://www.youtube.com/watch?v=muTfh9HKkkA&t=4162s)
 - search YouTube for "Obsidian beginner"; or "Obsidian" and the name of other tools like Notion, Evernote, OneNote, Roam, Scrivener, TiddlyWiki, etc.
 - great people to start with: [Eleanor Konik](https://www.eleanorkonik.com/tag/roundup/),  [Curtis McHale](https://curtismchale.ca/), [Nick Milo](https://www.linkingyourthinking.com/), [Tiago Forte](https://fortelabs.co/)
 
