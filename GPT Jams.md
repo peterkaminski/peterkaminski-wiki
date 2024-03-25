@@ -1,6 +1,6 @@
 # Weekend GPT Jam Tech Showcase
 
-**[Weekend GPT Jams](https://linktr.ee/annemurphy)** are hosted by [Anne Murphy](https://www.linkedin.com/in/anne-murphy-philanthropy/) and [Don Wackerly](https://www.linkedin.com/in/don-wackerly-mba-18670012/) of [Empowered Fundraising](https://empoweredfundraiser.com/) Consulting and Coaching, and are always fun and packed with amazing information.
+**[Weekend GPT Jams](https://linktr.ee/annemurphy)** are hosted by **[Anne Murphy](https://www.linkedin.com/in/anne-murphy-philanthropy/)** and **[Don Wackerly](https://www.linkedin.com/in/don-wackerly-mba-18670012/)** of [Empowered Fundraising](https://empoweredfundraiser.com/) Consulting and Coaching, and are always fun and packed with amazing information.
 
 Pete presented on Obsidian, March 23, 2024 as part of a Tech Showcase with other presenters.
 
@@ -17,7 +17,7 @@ Pete presented on Obsidian, March 23, 2024 as part of a Tech Showcase with other
 - Markdown-centric, internal linking, tags, huge plugin ecosystem
 - Obsidian Sync, Obsidian Publish
 
-## Obsidian Features
+## Some Obsidian Features, a Quick Tour
 
 - file navigation
 - text editing (Markdown)
@@ -39,8 +39,8 @@ Pete presented on Obsidian, March 23, 2024 as part of a Tech Showcase with other
 - to keep personal notes
 - to keep _versioned_ personal notes
 - to work with a team, and keep team notes
-- it's free
-- it's futureproof
+- it's free for personal use
+- the way it stores your data is local-first, transparent, and futureproof
 - each note is easy to repurpose and share
 - to create professional-looking websites that can be hosted for free
 - you can "link as you think", use tags, and other organization methods
