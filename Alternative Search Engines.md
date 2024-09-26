@@ -1,7 +1,5 @@
 # Alternative Search Engines
 
-Some are "private search engines".
-
 ## Services
 
 - Kagi
@@ -22,7 +20,7 @@ Some are "private search engines".
 
 ## Resources
 
-- https://restoreprivacy.com/private-search-engine/
+- [11 Best Private Search Engines 2024](https://restoreprivacy.com/private-search-engine/)
 - [Go Beyond Google: The Best Alternative Search Engines for 2024 | PCMag](https://www.pcmag.com/picks/go-beyond-google-best-alternative-search-engines)
 
 ## Search by API
