@@ -78,7 +78,7 @@ Our evolved social instincts, optimized for small hunter-gatherer bands, struggl
 
 **Practical ways we could get there:**
 
-- Design organizations and communities that respect Dunbar's number (1) while building bridges between groups
+- Design organizations and communities that respect Dunbar's number <sup>1</sup> while building bridges between groups
 - Create rituals and practices that help people feel emotionally connected to the global community
 - Develop better storytelling and narrative tools that make large-scale challenges feel personally relevant
 - Build systems that make abstract global issues tangible and local
