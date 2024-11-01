@@ -85,4 +85,6 @@ Our evolved social instincts, optimized for small hunter-gatherer bands, struggl
 
 ---
 
+Notes:
+
 (1) "Dunbar's number =~ 150" is a common trope (for good reasons); the reality is more complex, to dive into more some day. I'm leaving it as is for now.
