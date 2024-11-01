@@ -8,6 +8,8 @@ What now? What next?
 
 Four takes: Technological Focus, Organizational Focus, Cognitive Focus, Evolutionary Focus.
 
+What other focuses can you think of? How would you manage keeping all of them in mind, while delving into a particular one deeply enough to make a difference in the world?
+
 ## Version 1 - Technological Focus
 
 **Where I wish we were:**
