@@ -23,6 +23,7 @@
   - Self-Hosted Solutions
   - Commercially Hosted Open Source
   - Making the Choice
+- Table of Platforms
 - A Note on Facebook and LinkedIn Groups
 
 ## Personal Advice
@@ -282,6 +283,23 @@ The beauty of open source solutions is that you can often start with commercial 
 Many communities begin with commercial hosting to validate their concept, then transition to self-hosting as they grow and develop technical resources.
 
 Either way, choosing an open source platform—whether self-hosted or commercially hosted—means you're investing in a solution that respects your community's independence and privacy while providing the flexibility to adapt as needs change.
+
+## Table of Platforms
+
+| Platform                                                | Type       | OSS?         | Pete | Notes                                                                                                     |
+| ------------------------------------------------------- | ---------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
+| [Discourse](https://discourse.org)                      | Forum      | open source  | 👍    | Open source, self-hostable ideal for communities with regular activity and at least a dozen participants. |
+| [Flarum](https://flarum.org)                            | Forum      | open source  |      | Need more information.                                                                                    |
+| [NodeBB](https://nodebb.org)                            | Forum      | open source  |      | Need more information.                                                                                    |
+| [MyBB](https://mybb.com)                                | Forum      | open source  |      | Need more information.                                                                                    |
+| [phpBB](https://phpbb.com)                              | Forum      | open source  |      | Need more information.                                                                                    |
+| [Simple Machines Forum](https://www.simplemachines.org) | Forum      | open source  |      | Need more information.                                                                                    |
+| [Lemmy](https://join-lemmy.org)                         | Forum      | open source  |      | Need more information.                                                                                    |
+| [Mattermost](https://mattermost.com)                    | Chat       | open source  | 👍    | Open source, self-hostable Slack alternative, best for active communities with frequent interactions.     |
+| [Matrix](https://matrix.org)                            | Chat       | open source  | 🙃    | Next-gen IRC platform, Element is the primary client; works for active and low-volume use.                |
+| [Groups.io](https://groups.io)                          | Email List | paid service |      | Similar to Google Groups, offering a traditional mailing list experience.                                 |
+| [GNU Mailman](https://list.org)                         | Email List | open source  | 👍    | Open source, self-hostable option known for reliable mailing list functionality.                          |
+| [Google Groups](https://groups.google.com)              | Email List |              | 😕    | Free, provides traditional mailing list experience.                                                       |
 
 ## A Note on Facebook and LinkedIn Groups
 
