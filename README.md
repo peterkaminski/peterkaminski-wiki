@@ -15,6 +15,12 @@ I'm moving to this wiki website from [peterkaminski.com](http://peterkaminski.co
 
 For now, use the "All Pages" and "Search" at the top of the pages to navigate.
 
+A few top-of-mind pages for now:
+
+- [[Community Discussion Platforms]]
+- [[Social Media Is Fractured]]
+- [[Patterns for Organizing Information]]
+
 This wiki is built and maintained using [Massive Wiki](https://massive.wiki/) tools and patterns.
 
 To find out how to get in touch, click the "Contact Peter Kaminski" link at the left, or my name at the bottom of any page here.
