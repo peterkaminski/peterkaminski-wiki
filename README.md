@@ -19,6 +19,9 @@ A few top-of-mind pages for now:
 
 - [[Community Discussion Platforms]]
 - [[Social Media Is Fractured]]
+- LLM Compare - *interesting questions and how different LLMs answer them*
+		- [[LLM Compare - Lojban and Toki Pona]]
+		- [[LLM Compare - Aramaic Concepts]]
 - [[Patterns for Organizing Information]]
 
 This wiki is built and maintained using [Massive Wiki](https://massive.wiki/) tools and patterns.

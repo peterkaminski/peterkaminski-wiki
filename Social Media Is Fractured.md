@@ -34,6 +34,7 @@ Not listed above / ask me more about: Nostr, Ghost, Flickr, Threads.
 
 Some reading:
 
+- [On Crossposting](https://wiki.openglobalmind.com/projects/jerry's_nuggets/on_crossposting) (Jerry Michalski, 2024-10)
 - [The poster’s guide to the internet of the future](https://www.theverge.com/2023/10/23/23928550/posse-posting-activitypub-standard-twitter-tumblr-mastodon) (The Verge, 2023-10-23)
 - [POSSE](https://indieweb.org/POSSE) (IndieWeb, wiki page)
 	- [POSSE](https://indieweb.org/Micro.blog) (IndieWeb, wiki page) - micro.blog implements many [IndieWeb building blocks](https://indieweb.org/building-blocks) and may be a good to/from POSSE tool)
