@@ -1,0 +1,437 @@
+---
+theme: vuetiful
+---
+
+# Peter Kaminski
+
+## Living Between Worlds 2025-03-19
+
+https://peterkaminski.wiki/
+
+<small>Copyright 2025 Peter Kaminski. Licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).</small>  
+<small><i>v2, 2025-03-19</i></small>
+
+---
+
+## My Goals Today
+
+- Reduce anxiety about current AI.
+- Increase engagement with current AI.
+- Present an opinionated and informed viewpoint.
+- Not an apologist for AI, just a realist.
+
+Overall: Have more smart people help humans manage AI and human use of it as AI evolves.
+
+---
+
+## "AI"
+
+We'll focus on Large Language Models (LLMs), because that's where a lot of the action is.
+
+Other applications of AI are interesting as well, but not as instructive for this call and the next call.
+
+- Humanoid robots
+- Specialized robots
+  - Smart car
+  - Smart quadcopter
+  - Smart rocket
+- Generative AI
+  - Images
+  - Sound
+  - Voice
+  - Video
+
+---
+
+## LLMs
+
+LLMs present a **linguistic interface** to supercomputer compute and information management.
+
+**You** tell a **supercomputer** what to do in **plain language.**
+
+A **supercomputer** provides **you** with intermediate and final output in **plain language.**
+
+---
+
+## LLMs as a Technological Revolution
+
+I believe LLMs and linguistic interfaces (2022-2025) are a revolution similar in scope and scale to the personal computer revolution (1977-1984) and the Internet revolution (1993-2000).
+
+All three democratized access to computing power and information.  If you're old enough, you can remember the adoption cycle:
+
+- no awareness
+- gradual awareness, skepticism
+- grudging adoption
+- mass adoption, social changes, seems inevitable
+- hard to remember "before times"
+- "before times" unimaginable for young people
+
+Where are you, and we, now?
+
+---
+
+## Language Note
+
+We'll reuse a number of words that originally described human cognitive processes for similar but different LLM processes.
+
+For example:
+
+- think
+- know
+- understand
+- training
+- neural network
+
+This overloading of terminology is very confusing, but it doesn't mean that AI is doing the same things that humans do.
+
+**Cognitive terms applied to AI are metaphors.**
+
+---
+
+## What's an LLM (2023-2024)
+
+- A statistical model of language.
+- Often hooked up to a chat interface.
+- One way to get an effective language model: you dump a lot of information / knowledge / junk into the model.
+- Ergo: You can ask an LLM a question, and it will spout very convincing language.
+- The convincing language is often (but not always) correct.
+- Note a human problem of confusing "well-spoken" with "smart" or "correct".
+- Note a problem in educational metrics, the conflation of writing well about a subject vs. understanding a subject.
+
+---
+
+## What's an LLM (2024-2025)
+
+- Starting to "reason" or "think".
+- Starting to have simple agency to do things on your computer.
+  - Human manages goals, bot manages tasks (and sub-goals).
+
+---
+
+## An LLM is a Power Tool
+
+- Table saw: quick, clean cuts in pieces of wood.
+- Sewing machine: quick, precise, seams in fabric.
+- LLM: quick, high-quality prose.
+
+All power tools need some practice to use and thoughtful planning, or you end up with a quick, scaled-up, efficiently executed messes.
+
+Power tools democratize creation; power tools largely supplant craftperson work.
+
+When introduced, power tools tend to create fear, distrust, misunderstanding, and seem superhuman in an interesting but also threatening way.
+
+---
+
+## Power Tools and Reactions Thereto
+
+- **Printing Press (1440s)** - Challenged religious control; some rulers banned printing to prevent "dangerous ideas."
+- **Spinning Jenny (1760s)** - Sparked protests by textile workers who destroyed machines fearing lost livelihoods.
+- **Jacquard Looms (1801)** - Automated weaving with cards led to riots by workers fearing displacement.
+- **Steam Locomotives (1820-30s)** - Feared to cause harm at speeds above 30mph; prompted medical concerns.
+- **Mechanical Reaper (1830s)** - Farm laborers sabotaged machines threatening their employment.
+- **John Henry vs. Steam Drill (1870s)** - Folk hero died proving humans could temporarily outperform machines.
+- **Automobiles (1900s)** - "Devil wagons" required flag laws; feared to frighten horses and cause accidents.
+- **Factory Assembly Lines (1910s)** - Ford's innovation viewed as dehumanizing; threatened craftsmanship.
+
+---
+
+## By the way: Homo sapiens and Power Tools
+
+Remember *Homo habilis* (2 mya), the "handy" human who started using tools? It was a simpler time, when you used tools, but they didn't use you.
+
+To me, the story of *Homo sapiens* is the story of becoming users of, and victims of, technology. Sometimes technology has been social systems, sometimes hardware, sometimes processes. "Human" is now something that's part animal, part technology, and massively parallel. (You can't have just one human anymore.) We've gained a lot, and lost a lot along the way.
+
+Imagine conversations with elders:
+
+- What do you mean, you don't forage and hunt for food?
+- What do you mean, I can't live here any more because you "own" this land?
+- What do you mean, "the company" or "the system" dictates what you believe and do?
+- What do you mean, you literally have conversations with piles of structured sand?
+
+AI, wherever it is going, is one of the next steps in a path that stretches back tens of thousands of years.
+
+"Stop the world, I want to get off," is a nostalgic but impractical dream.
+
+---
+
+## Practical Application: My Quick LBW Planning Notes
+
+5 entering  
+
+30 sophical  
+
+gil general  
+ken my journey  
+pete sophical / thoughts / here let me show you some stuff  
+
+20 present  
+
+20 q & a  
+
+15 wrap / homework / set up next call  
+
+code: LBW  
+
+---
+
+## Practical Application: My Quick LBW Planning Notes + Prompt
+
+**add up these numbers (minutes)**
+
+5 entering  
+
+30 sophical  
+
+gil general  
+ken my journey  
+pete sophical / thoughts / here let me show you some stuff  
+
+20 present  
+
+20 q & a  
+
+15 wrap / homework / set up next call  
+
+code: LBW  
+
+---
+
+## Practical Application: Claude As Smart Calculator
+
+I'll add up the time values for you. Looking at the numbers mentioned:
+
+5 minutes - entering  
+30 minutes - sophical  
+20 minutes - present  
+20 minutes - Q & A  
+15 minutes - wrap/homework/set up next call  
+
+The total is: 5 + 30 + 20 + 20 + 15 = 90 minutes (1 hour and 30 minutes)
+
+Note that some items didn't have specific time values associated with them:
+- "gil general"
+- "ken my journey"
+- "pete sophical / thoughts / here let me show you some stuff"
+- "code: LBW"
+
+Would you like me to include estimates for these items as well, or is the 90-minute total for the specified times sufficient?
+
+---
+
+## Let's Talk about Conversations
+
+Conversations with a chatbot seem very much like instant messenger threads.
+
+You and the chatbot take turns adding messages to the thread.
+
+**Human:** Why is the sky blue?
+
+**Bot:** ... a phenomenon known as Rayleigh scattering ... sunlight interacts with air molecules, ... etc.
+
+**Human:** Tell me more about Rayleigh.
+
+**Bot:** John William Strutt, 3rd Baron Rayleigh (1842–1919), was a distinguished English physicist, ... etc.
+
+---
+
+## LLM Participation in Conversation
+
+Conversations are stateless. Unlike the human, the LLM doesn't have a memory or overall conception of the conversation, other than the conversation itself.
+
+To effect a turn, the whole thread is presented to the LLM *de novo* each time, and the LLM does its best to "complete" the whole thread with its next message. This is called "chat completion".
+
+---
+
+## Practical Considerations of LLM Conversation
+
+LLMs think in "tokens", which are chunks of words, around 4 tokens for every 3 words.
+
+LLMs have two "context window" sizes, input (say, 128k tokens) and output (say, 8k tokens).
+
+Because they're stateless, conversations grow quadratically with each turn.
+
+As far as I can tell, LLMs process conversations holistically, not serially.
+
+---
+
+## Lessons from Co-Developing with an AI
+
+- Make a small mess.
+- Have the bot help organize it.
+- Create prototypes or parallel messes.
+- Build some to throw away.
+- Sometimes, try again with the same (or slightly improved) prompt.
+- Have the bot help merge the best from prototypes or parallels.
+- Be a good editor / senior developer.
+- Don't be afraid to give the bot a lot of work.
+- Give the bot multiple related tasks at once.
+- Give precise instructions, and clear feedback.
+- Watch your context window sizes, both in and out.
+- Have the bot dump summaries for both of you in the future.
+- Version control, version control, verson control.
+
+---
+
+## Practical Application: Claude as Co-Developer (Programming)
+
+After about four months, we have a running, saleable SaaS application.
+
+Total tech team:
+
+- Pete: product vision, engineering leadership, architecture
+- AI (mostly Claude 3.5, some 3.7, some ChatGPT): software development, research
+
+Medium-sized repository (~456 files) with 15 sub-applications in a monorepo structure. Core functionality in backend (119 files) and frontend (81 files) apps. Moderate complexity with TypeScript, React frontends, Node.js backends, and Prisma for database. Includes shared packages, documentation, and several smaller utility applications.
+
+Prompt:
+
+- Summarize the size of this repo. number of files, number of sub-applications, maybe sort of overall complexity,
+  subjectively. Don't spend a lot of time doing this.
+- (Bot and I had to walk through eliminating some crufty, broken sub-applications to get the correct answer.)
+
+---
+layout: two-cols-header
+---
+
+## Practical Application: Claude as Co-Developer (Programming)
+
+Prototypes on the way to **cortex.**
+
+::left::
+
+aliquot-start-o1-001  
+aliquot-start-o1-002  
+antchat-v1  
+antchat-v2  
+basilisk-start-001  
+cognichat-v4  
+cognichat-v4-new  
+cognichat-v5  
+cognichat-v6  
+cognichat-v7  
+cognichat-v8  
+cortex  
+demosthenes  
+habilis-v0  
+habilis-v1  
+habilis-v2  
+habilis-v3  
+
+::right::
+
+habilis-v4  
+morphos-v1  
+nexus-v1  
+nexus-v1-a  
+nexus-v1-o  
+nexus-v2  
+nexus-v2-old  
+nexus-v3  
+nexus-v4  
+nexus-v4-o1-001  
+nexus-v4-o1-002  
+nexus-v4-o1-003  
+nexus-v4-start  
+nexus-v4-start-o1-001  
+nexus-v4-start-o1-002  
+nexus-v4-start-o1-003  
+
+---
+
+## Practical Application: Claude Code (Narrative Corpus)
+
+Could be a novel or a film, could be legal code, could be self-improvement framework.
+
+Currently, it's a children's story, with Tupence the hedgehog and Salud the magpie.
+
+1. Write a story about Tupence and Salud, two animal pals that get into amazing adventures and jams, but always manage to get out and recover with wot [wit] and pluck. End the story with a seed to start the next one.
+2. How did tuppence get his name?
+3. How did salud get her name?
+4. Write the next adventure.
+
+n. If we made a writer's Bible for Tupence and Salud, what chapters might it have?
+
+That led to the [Prisma Vault Framework](https://github.com/peterkaminski/prisma-vault/releases), a generalized information management framework for a team of writers working on narrative fiction.
+
+---
+layout: image-right
+image: 'CleanShot 2025-03-19 at 10.27.38@2x.png'
+---
+
+## Practical Application: Claude Code (Narrative Corpus)
+
+Next phase:
+
+- Merged the six or seven 400-word origin short stories (season 00) into the Prisma Vault Framework and expanding the bible, setting up for season 01. Created `tupence-and-salud-prisma`.
+  - Ended up costing about USD $6.00.
+- Continue to expand the universe, mostly the bible, and also actual stories.
+
+---
+
+## What Next? Whither AI Agency?
+
+Still today, AI doesn't do things to people. People deploy AI to do things with and to other people.
+
+The term "AI" has been used sort of interchangably with "big data" and other terminology and concepts. From the bottom up, you can argue that big data isn't AI. From the top down, I think the umbrella term "AI" fits big data.
+
+An older example we're all familiar with: Credit bureaus and credit scores automate loan decisions, but people have decided what to deploy and how to control the parameters.
+
+The same will be true for a while: humans deploy and manage AI. If you have problems with "AI", it's really the humans who deploy and manage it that you should engage with.
+
+Next month, let's talk about the boundary between Human Intelligence and Artificial Intelligence (if there is one) with an eye towards a humane future.
+
+---
+
+## Pete's AI Homework
+
+Here's my offer: a 4-week, 7-hour self-guided AI bootcamp, for your own edification.
+
+The basic structure: in order to really feel like you're starting to get the hang of this AI thing, spend 7 hours (well, 6-2/3rds) with it, really using it. It'll probably feel hard, stupid, or strange to get started.
+
+Schedule:
+
+- 20 minutes a day (doesn't have to be continguous, it's actually better if it's not).
+- 5 days a week (take 2 days off to rest and integrate).
+- Use web and phone apps.
+- LLMs mostly, AI art as desired.
+
+Optional but recommended: join Pete's AI Homework substack, for tips and tricks and encouragement, https://petesaihomework.substack.com/
+
+Email addresses there will not be harvested for anything besides the homework (and whatever Substack does), and it will be limited to 1 month.
+
+---
+
+## Colophon
+
+Pete's AI Homework: [https://petesaihomework.substack.com/](https://petesaihomework.substack.com/).
+
+Organized and written by Pete, with minor assistance from Claude 3.7 Sonnet and ChatGPT GPT-4o.
+
+Historical power tools and conclusion pages are mainly by Claude, cross-checked by ChatGPT, edited by Pete.
+
+Presentation tool: [Slidev](https://sli.dev/)
+
+Slidev Theme: [Vuetiful Theme](https://github.com/LinusBorg/slidev-theme-vuetiful)
+
+Pete takes responsibility for the content of this presentation.
+
+Published under [Creative Commons CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+
+[YouBots.ai](https://youbots.ai) is happy to offer Living Between Worlds community members a 20% off coupon code, **LBW20**. Sign up for a free trial (normally $1000/mo, $500/mo while in beta), use coupon code if/when you checkout after trial. Expires end of June 2025, may not be combined with other offers, other terms apply. Must sign up with a company domain and company email.
+
+---
+
+## Conclusion: Living Between Worlds
+
+- LLMs are powerful linguistic tools that democratize access to computing and information.
+- Like other revolutionary technologies, they inspire both fear and fascination.
+- Understanding their capabilities and limitations helps us use them effectively.
+- The future of AI is not autonomous machines making decisions, but humans using these tools with intention.
+  - The *future* future, though...?
+- Our challenge: learn to work with these tools skillfully while ensuring human values and oversight remain central.
+- Your call to action: Engage with these tools, experiment, and help shape how we integrate them into our world.
+
+Thank you,
+
+Peter Kaminski, 2025-03-19  
+https://peterkaminski.wiki/ - kaminski@istori.com  
