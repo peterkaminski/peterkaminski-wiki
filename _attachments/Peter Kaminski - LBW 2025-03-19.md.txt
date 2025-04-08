@@ -9,7 +9,7 @@ theme: vuetiful
 https://peterkaminski.wiki/
 
 <small>Copyright 2025 Peter Kaminski. Licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).</small>  
-<small><i>v2, 2025-03-19</i></small>
+<small><i>2025-03-19v3</i></small>
 
 ---
 
@@ -268,7 +268,7 @@ As far as I can tell, LLMs process conversations holistically, not serially.
 - Give precise instructions, and clear feedback.
 - Watch your context window sizes, both in and out.
 - Have the bot dump summaries for both of you in the future.
-- Version control, version control, verson control.
+- Version control, version control, version control.
 
 ---
 
@@ -395,7 +395,7 @@ Schedule:
 - Use web and phone apps.
 - LLMs mostly, AI art as desired.
 
-Optional but recommended: join Pete's AI Homework substack, for tips and tricks and encouragement, https://petesaihomework.substack.com/
+Optional but recommended: join Pete's AI Homework substack, for tips and tricks and encouragement, [https://petesaihomework.substack.com/](https://petesaihomework.substack.com/).
 
 Email addresses there will not be harvested for anything besides the homework (and whatever Substack does), and it will be limited to 1 month.
 
