@@ -2,10 +2,10 @@
 
 This is a short story written by AI. See [Pete's AI Homework - Day 14 - Storyteller](https://petesaihomework.substack.com/p/day-14-storyteller) for some more background.
 
-Title: Careful Moments Preserved  
-Prompted by: Peter Kaminski, 2025-04-07  
-Prompt: Write a 1000 word complete short story starting with the line "If one were careful..."  
-Model: Claude 3.7 Sonnet  
+Title: **Careful Moments Preserved**  
+Prompted by: **Peter Kaminski, 2025-04-07**  
+Prompt: **Write a 1000 word complete short story starting with the line "If one were careful..."**  
+Model: **Claude 3.7 Sonnet**  
 
 ## If one were careful...
 
