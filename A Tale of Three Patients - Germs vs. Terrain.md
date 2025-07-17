@@ -60,7 +60,7 @@ All three doctors care deeply about their patients and want to help. They simply
 
 ---
 
-### Epilogue: About Fiat Currency
+## Epilogue: About Fiat Currency
 
 Comparing fiat currency and misplaced E. coli colonization is not a bad analogy. Fiat currency sickness can be very painful and damaging.
 
