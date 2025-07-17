@@ -68,6 +68,7 @@ To explore fiat currency some more, I offer this two-part prompt for you to give
 
 **PROMPT 1A START >>>**
 
+```markdown
 Analyze the US transition from gold standard to fiat currency (1933-1971) and its cascading effects on American society, institutions, and global relationships across interconnected systems:
 
 1. Political & Institutional Impact
@@ -89,15 +90,18 @@ Analyze the US transition from gold standard to fiat currency (1933-1971) and it
    * How did the change affect different regions, social classes, and economic sectors?
 
 Use concrete historical examples and accessible explanations. Focus on how this monetary transformation reshaped American society beyond just economic metrics, examining the interconnections between monetary policy and democratic governance, social cohesion, and national character.
+```
 
 **<<< PROMPT 1A END**
 
 **PROMPT 1B START >>>**
 
+```markdown
 Let's examine why the US would do this to itself. Some ideas:
 
 - Emergent behavior of a complex, adaptive system
 - Societal orientation to conquest, domination, and extractivism, dissociating humanity from living values and replacing them with mechanistic greed
 - Individual players seeing a way to gain advantage over others
+```
 
 **<<< PROMPT 1B END**
