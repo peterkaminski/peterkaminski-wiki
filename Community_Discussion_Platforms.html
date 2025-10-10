@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Community Discussion Platforms - PeterKaminski.Wiki</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="//markpub-static/css/style.css">
+    <link rel="stylesheet" href="//markpub-static/css/custom.css">
+    <link rel="stylesheet" href="https://unpkg.com/bluesky-comments@0.9.0/dist/bluesky-comments.css">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+    <script src="//lunr-index-1760139141.5143085.js"></script>
+    <script>var index = lunr.Index.load(lunr_index)</script>
+    
+    
+    <script src="//lunr-posts-1760139141.5143085.js"></script>
+    <script> function randomPageLink() { return "/"+lunr_posts[Math.floor(Math.random() * lunr_posts.length)].link; } </script>
+    
+  </head>
+<body>
+  <div id="header">
+    <span id="hamburger-btn"
+    class="hidden">&#9776;</span><a class="button is-light" id="header-link" href="//index.html">PeterKaminski.Wiki</a>
+  </div>
+
+  <div class="container" id="flex-container">
+    <div id="side-column">
+      <div>
+        <button id="hide-btn">Hide</button>
+        <button id="move-btn" class="hidden">Move to Sidebar</button>
+      </div>
+      <h3>Site Navigation</h3>
+<div class="navlinks">
+<ul>
+<li><a class="wikilink" href="//README.html">HOME</a></li>
+<li><a href="//search.html">SEARCH</a></li>
+<li><a href="//all-pages.html">ALL PAGES</a></li>
+<li><a href="//recent-pages.html">RECENT CHANGES</a></li>
+</ul>
+</div>
+<hr />
+<p><a class="wikilink" href="//Contact_Peter_Kaminski.html">Contact Peter Kaminski</a></p>
+
+    </div>
+
+    <div id="main-column">
+      
+      <div> <!-- edit this page button -->
+	<p style="float:right; margin:.5em .5em
+	.5em"><a target="_blank" href="https://github.com/peterkaminski/peterkaminski-wiki/edit/main/Community Discussion Platforms.md"
+	class="edit-this-page-button">Edit on GitHub</a></p>
+	<br clear="all">
+      </div> <!-- edit this page button -->
+      
+      <h1>Community Discussion Platforms</h1>
+<h2>Table of Contents</h2>
+<ul>
+<li>Personal Advice</li>
+<li>Community is People</li>
+<li>Platform Types: Forum, Chat, Email List
+<ul>
+<li>Forum Platforms
+<ul>
+<li>Key Benefits</li>
+<li>Best Use Cases</li>
+</ul>
+</li>
+<li>Chat Platforms
+<ul>
+<li>Core Features</li>
+<li>Optimal Scenarios</li>
+<li>Limitations</li>
+</ul>
+</li>
+<li>Email Lists
+<ul>
+<li>Main Features</li>
+<li>Ideal Applications</li>
+<li>Advantages and Challenges</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Community Platform Features and Functionality
+<ul>
+<li>User-Focused Features</li>
+<li>Admin-Focused Features</li>
+<li>Technical Considerations</li>
+</ul>
+</li>
+<li>Open Source Community Platforms
+<ul>
+<li>Self-Hosted Solutions</li>
+<li>Commercially Hosted Open Source</li>
+<li>Making the Choice</li>
+</ul>
+</li>
+<li>Table of Platforms</li>
+<li>A Note on Facebook and LinkedIn Groups</li>
+</ul>
+<h2>Personal Advice</h2>
+<p><em>(I posted this "personal advice" section to help a small community think through platform options. I've started fleshing out additional details in the subsequent sections. Please share this elsewhere if you think someone will find it useful, along with credit to me and a link back to the canonical URL: <a href="https://peterkaminski.wiki/community_discussion_platforms">https://peterkaminski.wiki/community_discussion_platforms</a>. Comments and questions are welcome: <a href="mailto:kaminski@istori.com">kaminski@istori.com</a>. By Peter Kaminski. Claude and ChatGPT were used as writing assistants, but I'm responsible for the content. Last updated 2024-11-10.)</em></p>
+<p>I thought I'd share some platform observations, while noting that a community is not just a tech platform, it's also the people who participate.</p>
+<p>Choosing a tech platform goes hand in hand with helping people move to and use the platform. Helping the members use the platform is your primary job. Choosing and operating the tech platform, while very important, must be secondary to humans using the platform.</p>
+<p>I currently run both Mattermost and Discourse servers for a couple of communities, and server-wise, they are both easy to set up and maintain. (I could even say "fun", if you're a devops person.)</p>
+<p>Server cost for either one runs ~$10 a month on AWS servers; it might be possible to make that a little less on a cheaper VPS provider.</p>
+<p>Mattermost is an open source Slack-alike, and it's really nice to use. The IRC / Slack / Mattermost / Discord model, with channels and chat, works great for an active community (daily or near-daily traffic), but it's not great for a low-volume community (traffic once in a while).</p>
+<p>With an active chat-based community, you also sort of need a wiki or other knowledgebase to supplement the chat, otherwise good stuff just scrolls away. In a low-volume community, a chat platform feels like a ghost town.</p>
+<p>Matrix (primary client is Element, but there are others) is sort of a next-gen IRC, rather than an Slack- or IRC-alike. A small community would kinda fit in there, and even though Matrix is a chat system, it doesn't feel like a ghost town if there's low volume, because you can always join other Matrix channels.</p>
+<p>It would be a big change to move the community over to a specialized client, and not everybody would transition over.</p>
+<p>Discourse is arguably the best self-hostable forum software. I mean arguably literally, there are a few top contenders, and someone could argue that another one is "best" and not be wrong, based on the community's and maintainer's needs. I have an unsorted list here: <a class="wikilink" href="//Open_Source_Forum_Software.html">Open Source Forum Software</a>. Not all of those are contenders, but maybe half are.</p>
+<p>Discourse is really nice, I like it a lot. However, the default configuration is set up more for a big online community, with probably thousands of people and new people joining every month. Those configuration features actually get in the way of low-volume, small community use.</p>
+<p>You can go through and change the configuration of course, but there's a fair bit of that to do, it's a job for a couple people for a week or so part-time.</p>
+<p>I highly recommend Discourse for the right-sized community, which is probably north of a dozen participants, with at least a few active every week or so, at least. Unlike chat, the threads (called "topics" in Discourse) don't scroll away as much, and so you can get away using just Discourse for an okay knowledgebase, you don't need a separate wiki or whatever.</p>
+<p>Google Groups and Groups.io are also options. Google Groups is free, but it's not my favorite. Last time I needed a mailing list, I opted for Groups.io to avoid being "in the belly of the beast" that is Google. Both can work fine, though, especially if you're looking for a more traditional mailing list-style experience.</p>
+<p>Finally, if you're interested in self-hosting a mailing list, GNU Mailman is worth considering. I haven't hosted it personally, but I'm on some Mailman lists, and it seems solid. I can't speak to how much of a lift it is to host, but if anyone's interested, I'm happy to help figure it out—including talking about commercial SMTP providers, if that's of interest.</p>
+<h2>Community is People</h2>
+<p>Communities use tools and processes to interact. In this article, let's talk about community discussion platforms, which are online tools that host people's messages as the people interact with each other.</p>
+<p>Your community might be spread across different places, but you still want everyone to feel like they're part of something real.</p>
+<p>Maybe your online platform is where everyone hangs out most of the time, or maybe it's just one part of how you connect—alongside video calls or even in-person meetups.</p>
+<p>Whatever the case, finding the right platform is about more than just tools; it's about making a place where people feel comfortable to share, support each other, and stay engaged, no matter where they are.</p>
+<p>Choosing a tech platform goes hand in hand with helping people move to the platform and to use it. Helping the members use the platform is your primary job. Choosing and operating the tech platform, while very important, must be secondary to humans using the platform.</p>
+<h2>Platform Types: Forum, Chat, Email List</h2>
+<p>Community platforms can be categorized into a couple of types, including 'forum', 'chat', and 'email lists'.</p>
+<p>Each approach has its strengths and suits different kinds of community dynamics.</p>
+<h3>Forum Platforms</h3>
+<p>Forum platforms like Discourse, Flarum, or NodeBB excel at organized, threaded discussions that maintain value over time.</p>
+<h4>Key Benefits</h4>
+<ul>
+<li>Structured conversations organized by categories</li>
+<li>Rich content organization with tags and categories</li>
+<li>Sophisticated moderation tools</li>
+<li>Custom user roles and permissions</li>
+<li>Comprehensive search functionality</li>
+<li>Member directories and profiles</li>
+<li>Integration capabilities through APIs</li>
+</ul>
+<h4>Best Use Cases</h4>
+<p>Forums particularly shine when:</p>
+<ul>
+<li>Discussions need to be easily referenced later</li>
+<li>Content needs to be organized hierarchically</li>
+<li>You want conversations to have lasting value</li>
+<li>Community size ranges from dozens to thousands of members</li>
+<li>Discussions happen asynchronously</li>
+</ul>
+<h3>Chat Platforms</h3>
+<p>Chat platforms like Mattermost, Discord, or Matrix focus on real-time communication.</p>
+<h4>Core Features</h4>
+<ul>
+<li>Instant messaging capabilities</li>
+<li>Channel-based organization</li>
+<li>Direct messaging and group chats</li>
+<li>Real-time notifications</li>
+<li>Voice and video integration (in some platforms)</li>
+</ul>
+<h4>Optimal Scenarios</h4>
+<p>Chat works best when:</p>
+<ul>
+<li>Community has daily or near-daily activity</li>
+<li>Quick responses are important</li>
+<li>Real-time collaboration is needed</li>
+<li>You have an active, engaged user base</li>
+</ul>
+<h4>Limitations</h4>
+<p>However, chat platforms can face certain challenges:</p>
+<ul>
+<li>Can feel empty in low-traffic communities</li>
+<li>Valuable information can quickly scroll away</li>
+<li>May require supplementary knowledge base</li>
+<li>Limited archival capabilities</li>
+</ul>
+<h3>Email Lists</h3>
+<p>Email lists (like GNU Mailman, Google Groups, or Groups.io) provide a traditional, email-centric approach to community discussion.</p>
+<h4>Main Features</h4>
+<ul>
+<li>Thread-based conversations delivered to members' inboxes</li>
+<li>Simple subscription/unsubscription management</li>
+<li>Archive access through web interfaces</li>
+<li>Email-based participation (reply to participate)</li>
+<li>Moderation through email commands or web interface</li>
+<li>Digest options for high-volume lists</li>
+</ul>
+<h4>Ideal Applications</h4>
+<p>Email lists are particularly effective when:</p>
+<ul>
+<li>Members prefer email-based communication</li>
+<li>Participants are less technical or don't want new apps</li>
+<li>Discussions are primarily asynchronous</li>
+<li>You need broad accessibility (email works everywhere)</li>
+<li>Long-form, thoughtful responses are valued</li>
+<li>Historical archives need to be searchable</li>
+<li>You want low technical overhead for setup and maintenance</li>
+</ul>
+<h4>Advantages and Challenges</h4>
+<p>The email list model has stood the test of time because it leverages a universal communication tool (email) and requires minimal adaptation from users.</p>
+<p>However, it lacks some modern community features like rich profiles, real-time interaction, or sophisticated content organization.</p>
+<p>Also, email lists can get noisy fast. It can be hard to modulate participation, to keep a balance between productive participation from many members vs. having a few people bloviating.</p>
+<h2>Community Platform Features and Functionality</h2>
+<p>Here are some key features to consider when selecting a community platform, particularly a forum, sorted by user and administrative priorities.</p>
+<p>The "Importance" column indicates how critical this feature typically is for most communities.</p>
+<p>Remember that feature importance will vary significantly based on your specific community needs and goals. While evaluating platforms, consider both your current requirements and potential future growth—features that seem unnecessary now might become critical as your community evolves.</p>
+<p>Be aware that some desired functionality may require additional plugins, custom development, or third-party integrations, which can impact both initial and ongoing costs.</p>
+<p>Factor in not just the direct platform costs, but also maintenance, hosting, and potential development expenses.</p>
+<p>Finally, don't underestimate the importance of user adoption; the most feature-rich platform won't succeed if it presents too steep a learning curve for your community members.</p>
+<h3>User-Focused Features</h3>
+<table>
+<thead>
+<tr>
+<th align="left">Feature</th>
+<th align="left">Description</th>
+<th align="left">Importance</th>
+<th align="left">Common Pain Points</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Mobile Experience</td>
+<td align="left">Responsive design, easy mobile posting/reading</td>
+<td align="left">High</td>
+<td align="left">Poor mobile editors, tiny tap targets</td>
+</tr>
+<tr>
+<td align="left">Content Discovery</td>
+<td align="left">Finding relevant posts, search functionality</td>
+<td align="left">High</td>
+<td align="left">Bad search, overwhelming home feeds</td>
+</tr>
+<tr>
+<td align="left">Notification Control</td>
+<td align="left">Customizable notifications for topics/messages</td>
+<td align="left">High</td>
+<td align="left">Too many notifications, missing important updates</td>
+</tr>
+<tr>
+<td align="left">Feed Customization</td>
+<td align="left">Ability to follow/unfollow topics or categories</td>
+<td align="left">High</td>
+<td align="left">Seeing unwanted content, information overload</td>
+</tr>
+<tr>
+<td align="left">Direct Messaging</td>
+<td align="left">Private 1:1 and group messaging</td>
+<td align="left">High</td>
+<td align="left">Limited DM features, clunky interfaces</td>
+</tr>
+<tr>
+<td align="left">Post Editor</td>
+<td align="left">Rich text editing, image uploads, drafts</td>
+<td align="left">High</td>
+<td align="left">Lost drafts, formatting issues, editor bugs</td>
+</tr>
+<tr>
+<td align="left">User Profiles</td>
+<td align="left">Customizable profiles, activity history</td>
+<td align="left">Medium</td>
+<td align="left">Limited profile fields, privacy controls</td>
+</tr>
+<tr>
+<td align="left">Reading Experience</td>
+<td align="left">Clean layout, dark mode, text sizing</td>
+<td align="left">Medium</td>
+<td align="left">Cluttered design, poor readability</td>
+</tr>
+<tr>
+<td align="left">Events System</td>
+<td align="left">Calendar, RSVPs, recurring events</td>
+<td align="left">Medium</td>
+<td align="left">Complex event creation, timezone issues</td>
+</tr>
+</tbody>
+</table>
+<h3>Admin-Focused Features</h3>
+<table>
+<thead>
+<tr>
+<th align="left">Feature</th>
+<th align="left">Description</th>
+<th align="left">Importance</th>
+<th align="left">Common Pain Points</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Moderation Tools</td>
+<td align="left">Post/user management, content flags</td>
+<td align="left">High</td>
+<td align="left">Limited bulk actions, poor audit trails</td>
+</tr>
+<tr>
+<td align="left">User Management</td>
+<td align="left">Roles, permissions, tier management</td>
+<td align="left">High</td>
+<td align="left">Inflexible permission systems</td>
+</tr>
+<tr>
+<td align="left">Analytics</td>
+<td align="left">User engagement, content performance</td>
+<td align="left">High</td>
+<td align="left">Limited metrics, poor export options</td>
+</tr>
+<tr>
+<td align="left">Content Organization</td>
+<td align="left">Categories, tags, pinned posts</td>
+<td align="left">High</td>
+<td align="left">Difficult reorganization, inflexible structure</td>
+</tr>
+<tr>
+<td align="left">API Access</td>
+<td align="left">Integration capabilities, webhooks</td>
+<td align="left">Medium</td>
+<td align="left">Poor documentation, limited endpoints</td>
+</tr>
+<tr>
+<td align="left">Customization</td>
+<td align="left">Theming, branding, layout control</td>
+<td align="left">Medium</td>
+<td align="left">Complex customization, breaking changes</td>
+</tr>
+<tr>
+<td align="left">Onboarding Flow</td>
+<td align="left">Welcome process, required fields</td>
+<td align="left">Medium</td>
+<td align="left">Rigid workflows, high drop-off</td>
+</tr>
+<tr>
+<td align="left">Backup/Recovery</td>
+<td align="left">Data export, disaster recovery</td>
+<td align="left">Medium</td>
+<td align="left">Complex backup processes</td>
+</tr>
+<tr>
+<td align="left">Anti-Spam</td>
+<td align="left">Automated protection, captchas</td>
+<td align="left">Medium</td>
+<td align="left">False positives, aggressive filters</td>
+</tr>
+</tbody>
+</table>
+<h3>Technical Considerations</h3>
+<table>
+<thead>
+<tr>
+<th align="left">Feature</th>
+<th align="left">Description</th>
+<th align="left">Importance</th>
+<th align="left">Common Pain Points</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Performance</td>
+<td align="left">Page load times, server resources</td>
+<td align="left">High</td>
+<td align="left">Slow searches, heavy pages</td>
+</tr>
+<tr>
+<td align="left">Security</td>
+<td align="left">Authentication, data protection</td>
+<td align="left">High</td>
+<td align="left">Complex SSO setup</td>
+</tr>
+<tr>
+<td align="left">Self-Hosting</td>
+<td align="left">Server requirements, maintenance</td>
+<td align="left">Medium</td>
+<td align="left">Resource intensive, update management</td>
+</tr>
+<tr>
+<td align="left">Data Privacy</td>
+<td align="left">GDPR compliance, data control</td>
+<td align="left">Medium</td>
+<td align="left">Limited privacy controls</td>
+</tr>
+<tr>
+<td align="left">Integration</td>
+<td align="left">Third-party services, SSO</td>
+<td align="left">Medium</td>
+<td align="left">Limited integration options</td>
+</tr>
+</tbody>
+</table>
+<h2>Open Source Community Platforms</h2>
+<p>Open source community platforms offer a compelling middle ground between fully commercial services and social media platforms. They provide control and flexibility while respecting user privacy and data ownership.</p>
+<p>Let's explore both self-hosted and commercially hosted options:</p>
+<h3>Self-Hosted Solutions</h3>
+<p>Self-hosting open source platforms like Discourse, Flarum, or NodeBB gives you maximum control over your community's infrastructure. You maintain complete data ownership, can customize every aspect of the platform, and aren't subject to unexpected pricing changes or feature removals.</p>
+<h4>Advantages</h4>
+<ul>
+<li>Complete control over data and privacy</li>
+<li>Freedom to modify and customize</li>
+<li>No per-user pricing</li>
+<li>Direct access to databases and backups</li>
+<li>Ability to implement custom features</li>
+<li>Control over upgrade timing</li>
+<li>Choice of hosting providers</li>
+</ul>
+<h4>Challenges</h4>
+<ul>
+<li>Requires technical expertise to maintain</li>
+<li>Security updates need attention</li>
+<li>Server costs and management</li>
+<li>Initial setup complexity</li>
+<li>Performance tuning responsibility</li>
+<li>Backup management</li>
+<li>Email deliverability setup</li>
+</ul>
+<h4>Costs and Considerations</h4>
+<p>Typical costs run $5-20/month for hosting on platforms like AWS, DigitalOcean, or Linode, though this can increase with community size and activity.</p>
+<h3>Commercially Hosted Open Source</h3>
+<p>Many open source platforms offer commercial hosting options (like Discourse.org for Discourse). This approach provides many benefits of open source software while eliminating most technical maintenance burden.</p>
+<h4>Advantages</h4>
+<ul>
+<li>Professional maintenance and updates</li>
+<li>Managed backups and security</li>
+<li>Technical support available</li>
+<li>Easy setup and onboarding</li>
+<li>Guaranteed uptime and performance</li>
+<li>Email deliverability handled</li>
+<li>Clear upgrade paths</li>
+</ul>
+<h4>Challenges</h4>
+<ul>
+<li>Higher monthly costs than self-hosting</li>
+<li>Less direct control over infrastructure</li>
+<li>Potential platform-specific limitations</li>
+<li>May still require technical knowledge for customization</li>
+<li>Usually priced per user/usage</li>
+</ul>
+<h3>Making the Choice</h3>
+<p>Consider these factors when deciding between self-hosted and commercially hosted options:</p>
+<h4>Technical Resources</h4>
+<ul>
+<li>Do you have the expertise to manage a server?</li>
+<li>Can you handle security updates and maintenance?</li>
+<li>Are you comfortable with command-line operations?</li>
+</ul>
+<h4>Budget Considerations</h4>
+<ul>
+<li>How does your community size affect hosted pricing?</li>
+<li>Can you commit time to server management?</li>
+<li>What's the true cost of technical staff time?</li>
+</ul>
+<h4>Control Requirements</h4>
+<ul>
+<li>How important is direct database access?</li>
+<li>Do you need custom modifications?</li>
+<li>Are there specific security or privacy requirements?</li>
+</ul>
+<h4>Growth Plans</h4>
+<ul>
+<li>How might costs scale as you grow?</li>
+<li>What technical needs might emerge?</li>
+<li>Will you need migration flexibility?</li>
+</ul>
+<p>The beauty of open source solutions is that you can often start with commercial hosting and move to self-hosting later (or vice versa), giving you flexibility as your community's needs evolve.</p>
+<p>Many communities begin with commercial hosting to validate their concept, then transition to self-hosting as they grow and develop technical resources.</p>
+<p>Either way, choosing an open source platform—whether self-hosted or commercially hosted—means you're investing in a solution that respects your community's independence and privacy while providing the flexibility to adapt as needs change.</p>
+<h2>Table of Platforms</h2>
+<table>
+<thead>
+<tr>
+<th align="left">Platform</th>
+<th align="left">Type</th>
+<th align="left">OSS?</th>
+<th align="left">Pete</th>
+<th align="left">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><a href="https://discourse.org">Discourse</a></td>
+<td align="left">Forum</td>
+<td align="left">open source</td>
+<td align="left">👍</td>
+<td align="left">Open source, self-hostable ideal for communities with regular activity and at least a dozen participants.</td>
+</tr>
+<tr>
+<td align="left"><a href="https://flarum.org">Flarum</a></td>
+<td align="left">Forum</td>
+<td align="left">open source</td>
+<td align="left"></td>
+<td align="left">Need more information.</td>
+</tr>
+<tr>
+<td align="left"><a href="https://nodebb.org">NodeBB</a></td>
+<td align="left">Forum</td>
+<td align="left">open source</td>
+<td align="left"></td>
+<td align="left">Need more information.</td>
+</tr>
+<tr>
+<td align="left"><a href="https://mybb.com">MyBB</a></td>
+<td align="left">Forum</td>
+<td align="left">open source</td>
+<td align="left"></td>
+<td align="left">Need more information.</td>
+</tr>
+<tr>
+<td align="left"><a href="https://phpbb.com">phpBB</a></td>
+<td align="left">Forum</td>
+<td align="left">open source</td>
+<td align="left"></td>
+<td align="left">Need more information.</td>
+</tr>
+<tr>
+<td align="left"><a href="https://www.simplemachines.org">Simple Machines Forum</a></td>
+<td align="left">Forum</td>
+<td align="left">open source</td>
+<td align="left"></td>
+<td align="left">Need more information.</td>
+</tr>
+<tr>
+<td align="left"><a href="https://join-lemmy.org">Lemmy</a></td>
+<td align="left">Forum</td>
+<td align="left">open source</td>
+<td align="left"></td>
+<td align="left">Need more information.</td>
+</tr>
+<tr>
+<td align="left"><a href="https://mattermost.com">Mattermost</a></td>
+<td align="left">Chat</td>
+<td align="left">open source</td>
+<td align="left">👍</td>
+<td align="left">Open source, self-hostable Slack alternative, best for active communities with frequent interactions.</td>
+</tr>
+<tr>
+<td align="left"><a href="https://matrix.org">Matrix</a></td>
+<td align="left">Chat</td>
+<td align="left">open source</td>
+<td align="left">🙃</td>
+<td align="left">Next-gen IRC platform, Element is the primary client; works for active and low-volume use.</td>
+</tr>
+<tr>
+<td align="left"><a href="https://groups.io">Groups.io</a></td>
+<td align="left">Email List</td>
+<td align="left">paid service</td>
+<td align="left"></td>
+<td align="left">Similar to Google Groups, offering a traditional mailing list experience.</td>
+</tr>
+<tr>
+<td align="left"><a href="https://list.org">GNU Mailman</a></td>
+<td align="left">Email List</td>
+<td align="left">open source</td>
+<td align="left">👍</td>
+<td align="left">Open source, self-hostable option known for reliable mailing list functionality.</td>
+</tr>
+<tr>
+<td align="left"><a href="https://groups.google.com">Google Groups</a></td>
+<td align="left">Email List</td>
+<td align="left"></td>
+<td align="left">😕</td>
+<td align="left">Free, provides traditional mailing list experience.</td>
+</tr>
+</tbody>
+</table>
+<h2>A Note on Facebook and LinkedIn Groups</h2>
+<p>While Facebook and LinkedIn groups offer convenient, ready-made platforms for community building, they come with significant trade-offs worth considering.</p>
+<p>These platforms provide built-in audiences, familiar interfaces, and zero hosting costs, which can make them attractive options for some communities. Many people already have accounts and know how to use them, eliminating onboarding friction.</p>
+<p>However, using these platforms means accepting their fundamental business model: they monetize user attention and data through advertising. Your community's discussions, member information, and engagement patterns become part of their data collection ecosystem.</p>
+<p>They can (and do) change features, algorithms, and access rules without warning, potentially disrupting your community's dynamics overnight.</p>
+<h3>Key Limitations</h3>
+<ul>
+<li>Content ownership and export options are limited</li>
+<li>Discovery is controlled by proprietary algorithms</li>
+<li>Members must have platform accounts to participate</li>
+<li>Privacy controls are subject to platform policies</li>
+<li>Advertising appears throughout discussions</li>
+<li>API access is restricted and can change unexpectedly</li>
+<li>Platform changes are beyond your control</li>
+</ul>
+<h3>Considerations for Use</h3>
+<p>For some communities—particularly those focused on professional networking or casual interest groups—these trade-offs might be acceptable.</p>
+<p>However, for communities that value data privacy, content ownership, or long-term stability, self-hosted or independent platforms often prove to be better choices.</p>
+<p>The initial investment in setting up your own platform can pay dividends in terms of control, customization, and community independence.</p>
+<p>Remember: when you build on someone else's platform, you're subject to their rules, their timeline, and ultimately, their business interests. While this might align with your community's needs, it's important to make this choice consciously rather than defaulting to it out of convenience.</p>
+
+      
+    </div>
+  </div>
+  
+  <footer class="footer">
+  <div class="content has-text-centered">
+    
+    <div><strong>PeterKaminski.Wiki</strong> by Peter Kaminski.</div>
+    
+    
+    <div>Central repository at <a href="https://github.com/peterkaminski/peterkaminski-wiki">peterkaminski-wiki</a>.</div>
+    
+    
+    <div>Licensed under <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</div>
+    
+    <div><em>Site last updated on Friday, October 10, 2025 at 23:32 UTC.</em></div>
+  </div>
+</footer>
+</body>
+</html>

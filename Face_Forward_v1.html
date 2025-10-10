@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Face Forward v1 - PeterKaminski.Wiki</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="//markpub-static/css/style.css">
+    <link rel="stylesheet" href="//markpub-static/css/custom.css">
+    <link rel="stylesheet" href="https://unpkg.com/bluesky-comments@0.9.0/dist/bluesky-comments.css">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+    <script src="//lunr-index-1760139141.5143085.js"></script>
+    <script>var index = lunr.Index.load(lunr_index)</script>
+    
+    
+    <script src="//lunr-posts-1760139141.5143085.js"></script>
+    <script> function randomPageLink() { return "/"+lunr_posts[Math.floor(Math.random() * lunr_posts.length)].link; } </script>
+    
+  </head>
+<body>
+  <div id="header">
+    <span id="hamburger-btn"
+    class="hidden">&#9776;</span><a class="button is-light" id="header-link" href="//index.html">PeterKaminski.Wiki</a>
+  </div>
+
+  <div class="container" id="flex-container">
+    <div id="side-column">
+      <div>
+        <button id="hide-btn">Hide</button>
+        <button id="move-btn" class="hidden">Move to Sidebar</button>
+      </div>
+      <h3>Site Navigation</h3>
+<div class="navlinks">
+<ul>
+<li><a class="wikilink" href="//README.html">HOME</a></li>
+<li><a href="//search.html">SEARCH</a></li>
+<li><a href="//all-pages.html">ALL PAGES</a></li>
+<li><a href="//recent-pages.html">RECENT CHANGES</a></li>
+</ul>
+</div>
+<hr />
+<p><a class="wikilink" href="//Contact_Peter_Kaminski.html">Contact Peter Kaminski</a></p>
+
+    </div>
+
+    <div id="main-column">
+      
+      <div> <!-- edit this page button -->
+	<p style="float:right; margin:.5em .5em
+	.5em"><a target="_blank" href="https://github.com/peterkaminski/peterkaminski-wiki/edit/main/Face Forward v1.md"
+	class="edit-this-page-button">Edit on GitHub</a></p>
+	<br clear="all">
+      </div> <!-- edit this page button -->
+      
+      <h1>Face Forward v1</h1>
+<p><em>Last edited: 2023-01-26 by <a href="mailto:kaminski@istori.com">Peter Kaminski</a>. Please email me with comments or questions.</em><br />
+<a href="https://peterkaminski.wiki/face_forward_v1">permalink</a> to this page</p>
+<p>To see each of the 144 synthesized human faces of Face Forward v1 at full 768x512 pixel (0.3 megapixel) resolution, visit this Flickr album: <a href="https://www.flickr.com/photos/pixelthesia/sets/72177720305544773">Face Forward v1 - Flickr</a>.</p>
+<p>Here is a montage of the 144 synthesized human faces of Face Forward v1. See below for more information about the project.</p>
+<p><img src="//_attachments/Face_Forward_v1_montage.jpg" alt="an image with no alt text" /></p>
+<p>Face Forward v1 is a small project to briefly assess how good current versions of Stable Diffusion and wavymulder's Analog Diffusion model are at synthesizing portraits of human faces.</p>
+<p>I wanted to generate reasonably realistic faces, with a diversity of types of faces and photography styles. I wanted to see how good the faces would be without anything fancy; so I used fairly minimal prompts, didn't use fancy prompt engineering, didn't use any face improvement post-processing, and didn't upscale the images. Each image is as-generated, no fixes at all.</p>
+<p>I cherry picked images that I felt hit sort of a "95%" quality mark. In cherry picking, I included some images that need rectangular cropping to remove stray objects or a duplicate person, because that's an easy transform. I didn't crop the images, so you can see the entire as-generated set. I also included some images that had some incidental problems with non-face objects - hair, hands, jewelry, or background objects. Hiding or masking those things is harder than a rectangular transform, but still not too hard with straightforward image editing techniques.</p>
+<p>Out of about 825 images generated, I ended up with 144 images in this "95%" quality range – a ~17.5% yield. Very good, considering.</p>
+<p>The biggest problem Stable Diffusion had was generating eyes -- sometimes eye shape, but more often, problems with the iris, pupil, reflections, or bilateral symmetry between both eyes. Many of the images I didn't select would meet my quality bar just by fixing one eye, which would increase the yield by a lot.</p>
+<p>None of the images is 100% perfect; they all need touch-up work of one kind or another. But I'm impressed at the number and variety of pretty solid faces. I'm also always amazed at how well complex 3D objects and lighting are synthesized by 2D pixel manipulation, with no real understanding of light or 3D structure. I think some day all virtual photography will use 3D modeling, lighting, and rendering, but for now, even 2D synthesis works very well.</p>
+<h2>Technical Details</h2>
+<p>I used <a href="https://drawthings.ai/">Draw Things</a> version 1.20230114.2 on a MacBook Pro (14-inch, 2021) with an M1 Max CPU and lots of memory and disk space. Each image took about 35 seconds to generate.</p>
+<p>Steps: 35, Sampler: DPM++ 2M Karras, Guidance Scale: 7.5, Size: 768x512, Model: analog_v1_f16.ckpt (wavymulder's <a href="https://huggingface.co/wavymulder/Analog-Diffusion">Analog Diffusion</a> model).</p>
+<h2>Prompt Keywords</h2>
+<p>To create the prompts, I used the following keywords in varying combinations. You may not see all of these keywords represented in the 144 faces included in Face Forward v1.</p>
+<p>No artist or photographer names were used in any prompt.</p>
+<p>A typical prompt: "analog style selfie of a happy, interesting person, masterpiece, matching eyes, sunlight, eye light, bright face, in focus, lens flare".</p>
+<p>"analog style" is the activation string for Analog Diffusion, and doesn't count as part of the prompt keywords.</p>
+<p>Left to its own devices, the model tended to put beards on men, so I often added "beard" as a negative prompt.</p>
+<h3>Gender</h3>
+<p>man, nonbinary, person, woman</p>
+<h3>Facial Appearance</h3>
+<p>attractive, friendly, handsome, happy, interesting, kind, lovely</p>
+<h3>Photo Type / Lighting</h3>
+<p>bright, close up, close up, eyelight, face, film, headshot, ideal, in focus, lens flare, masterpiece, matching eyes, motion blur, photograph, portrait, selfie, snapshot, sunlight, sunlit</p>
+<h3>Ethnicity</h3>
+<p>african american, american, diverse, eastern european, ethnically diverse, middle eastern, mixed race, native american, northern european, south american, southern european</p>
+<h3>Age</h3>
+<p>middle-aged, old, older, young</p>
+
+      
+    </div>
+  </div>
+  
+  <footer class="footer">
+  <div class="content has-text-centered">
+    
+    <div><strong>PeterKaminski.Wiki</strong> by Peter Kaminski.</div>
+    
+    
+    <div>Central repository at <a href="https://github.com/peterkaminski/peterkaminski-wiki">peterkaminski-wiki</a>.</div>
+    
+    
+    <div>Licensed under <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</div>
+    
+    <div><em>Site last updated on Friday, October 10, 2025 at 23:32 UTC.</em></div>
+  </div>
+</footer>
+</body>
+</html>
