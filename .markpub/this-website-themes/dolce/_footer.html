@@ -1,0 +1,14 @@
+<footer class="footer">
+  <div class="content has-text-centered">
+    {% if wiki_title and author %}
+    <div><strong>{{wiki_title}}</strong> by {{author}}.</div>
+    {% endif %}
+    {% if repo %}
+    <div>Central repository at {{repo}}.</div>
+    {% endif %}
+    {% if license %}
+    <div>Licensed under {{license}}.</div>
+    {% endif %}
+    <div><em>Site last updated on {{build_time}}.</em></div>
+  </div>
+</footer>

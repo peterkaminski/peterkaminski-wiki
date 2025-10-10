@@ -1,0 +1,32 @@
+{% set page_title = 'Recent Changes - ' ~ wiki_title %}{% include '_header.html' %}
+<body>
+  <div id="header">
+    <span id="hamburger-btn" class="hidden">&#9776;</span><a class="button is-light" id="header-link" href="{{websiteroot}}/index.html" style="text-decoration: none;">{{wiki_title}}</a>
+  </div>
+
+  <div class="container" id="flex-container">
+    <div id="side-column">
+      <div>
+        <button id="hide-btn">Hide</button>
+        <button id="move-btn" class="hidden">Move to Sidebar</button>
+      </div>
+      {{ sidebar_body }}
+    </div>
+    
+    <div id="main-column">
+      <h1>Recent new and updated pages</h1>
+      {% for page in pages %}
+      <p>
+	<div><a href="{{websiteroot}}{{page.path}}">{{page.title}}</a></div>
+	{% if page.abstract is defined %}
+	<div><blockquote class="recent-changes-page-abstract">{{page.abstract}}</blockquote></div>
+	{% endif %}
+      </p>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% include '_footer.html' %}
+<script src="{{websiteroot}}/markpub-static/js/script.js"></script>
+</body>
+</html>

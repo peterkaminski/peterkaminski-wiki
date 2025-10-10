@@ -1,0 +1,64 @@
+{% set page_title = 'All Pages - ' ~ wiki_title %}{% include '_header.html' %}
+<body>
+  <div id="header">
+    <span id="hamburger-btn" class="hidden">☰</span><a class="button is-light" id="header-link" href="{{websiteroot}}/index.html" style="text-decoration: none;">{{wiki_title}}</a>
+  </div>
+
+  <div class="container" id="flex-container">
+    <div id="side-column">
+      <div>
+        <button id="hide-btn">Hide</button> <button id="move-btn"
+        class="hidden">Move to Sidebar</button>
+      </div>
+      {{ sidebar_body }}
+    </div>
+    <div id="main-column" class="allpages-max-width">
+      <link href='https://unpkg.com/gridjs/dist/theme/mermaid.min.css' rel='stylesheet'>
+      <script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
+      <script>
+	document.addEventListener("DOMContentLoaded", function () {
+            new gridjs.Grid({
+		from: document.getElementById('sourceTable'),
+		sort: true,
+		fixedHeader: true,
+		search: true,
+		autoWidth: true,
+		language: {
+                    'search': {
+			'placeholder': '🔍 Search this table...'
+                    }
+		}
+            }).render(document.getElementById('destinationWrapper'));
+	});
+      </script>
+
+      <div id='allPagesTableWrapper'>
+        <div id='destinationWrapper'></div>
+        <table id='sourceTable'>
+          <thead>
+            <tr>
+              <th>Page</th>
+              <th>Change</th>
+              <th>By</th>
+              <th>Date</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for page in pages|sort(attribute='date',reverse=True) %}
+            <tr>
+              <td>
+                <a href="{{websiteroot}}{{ page.path }}">{{page.title}}</a>
+              </td>
+              <td>{{page.change}}</td>
+              <td>{{page.author}}</td>
+              <td>{{page.date}}</td>
+            </tr>
+	    {%- endfor -%}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  <script src="{{websiteroot}}/markpub-static/js/script.js"></script>
+</body>
+</html>

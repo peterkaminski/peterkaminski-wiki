@@ -1,0 +1,68 @@
+{% set page_title = title ~ ' - ' ~ wiki_title if title != 'README' else wiki_title %}{% include '_header.html' %}
+<body>
+  <div id="header">
+    <span id="hamburger-btn"
+    class="hidden">&#9776;</span><a class="button is-light" id="header-link" href="{{websiteroot}}/index.html">{{wiki_title}}</a>
+  </div>
+
+  <div class="container" id="flex-container">
+    <div id="side-column">
+      <div>
+        <button id="hide-btn">Hide</button>
+        <button id="move-btn" class="hidden">Move to Sidebar</button>
+      </div>
+      {{ sidebar_body }}
+    </div>
+
+    <div id="main-column">
+      {% if edit_url %}
+      <div> <!-- edit this page button -->
+	<p style="float:right; margin:.5em .5em
+	.5em"><a target="_blank" href="{{edit_url}}"
+	class="edit-this-page-button">Edit on {{git_forge}}</a></p>
+	<br clear="all">
+      </div> <!-- edit this page button -->
+      {% endif %}
+      {{ markdown_body }}
+      {% if backlinks %}
+      <hr>
+      <div>
+	<h4>Pages that link to this page</h4>
+	<ul>
+	  {% for link in backlinks %}
+	  <li><a href="{{websiteroot}}{{link[0]}}">{{link[1]}}</a>
+	  {% endfor %}
+	</ul>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  {% if bluesky_comments_post %}
+  <div id="bluesky-comments"></div>
+  <script src="{{websiteroot}}/markpub-static/js/script.js"></script>
+  <script type="importmap">
+    {
+	"imports": {
+	    "react": "https://esm.sh/react@18",
+	    "react-dom/client": "https://esm.sh/react-dom@18"
+	}
+    }
+  </script>
+  <script type="module">
+    import { createElement } from 'react'
+    import { createRoot } from 'react-dom/client'
+    import { BlueskyComments } from 'https://unpkg.com/bluesky-comments@0.9.0/dist/bluesky-comments.es.js'
+
+    const uri = '{{bluesky_comments_post}}'
+    const container = document.getElementById('bluesky-comments')
+    const root = createRoot(container)
+    root.render(
+	createElement(BlueskyComments, {
+	    "uri": uri,
+	})
+    )
+  </script>
+  {% endif %}
+  {% include '_footer.html' %}
+</body>
+</html>

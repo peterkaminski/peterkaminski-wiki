@@ -1,9 +1,11 @@
-# Site Navigation
+### Site Navigation
 
-[[README|Home]]  
-[Search](/search.html)  
-[All Pages](/all-pages.html)  
-[[What's New]]  
+{< div class="navlinks" >}
+- [[README|HOME]]
+- [SEARCH](/search.html)  
+- [ALL PAGES](/all-pages.html)  
+- [RECENT CHANGES](/recent-pages.html)
+{< /div >}
 
 ---
 
