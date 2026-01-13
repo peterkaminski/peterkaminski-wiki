@@ -1,3 +1,5 @@
+# What is a Call Wiki?
+
 A **call wiki** is a comprehensive hypertext wiki website created from video call transcripts and chat logs, assembled primarily by an AI system (for instance, Claude Code) under human direction. It transforms linear conversation recordings into a rich, navigable knowledge base.
 
 ### Key Characteristics:
