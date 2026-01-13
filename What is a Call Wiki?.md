@@ -1,7 +1,3 @@
-I'll search your Fastmail for messages with "call wiki" from you.Let me retrieve the full content of a few of these messages to get a comprehensive understanding:Let me get one more key email:Based on the emails from your Fastmail account, here's a description of what a "call wiki" is:
-
-## What is a Call Wiki?
-
 A **call wiki** is a comprehensive hypertext wiki website created from video call transcripts and chat logs, assembled primarily by an AI system (for instance, Claude Code) under human direction. It transforms linear conversation recordings into a rich, navigable knowledge base.
 
 ### Key Characteristics:
