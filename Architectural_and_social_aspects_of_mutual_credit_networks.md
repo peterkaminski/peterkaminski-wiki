@@ -1,3 +1,5 @@
+# Architectural and social aspects of mutual credit networks
+
 Architectural and social aspects of mutual credit networks, or another way to put it, decentralized monetary systems based on social trust and IOUs, are interest-adjacent for me.
 
 You might say, doesn't Bitcoin solve this? Topologically, Bitcoin is multi-party, but logically centralized around a single global ledger and a specific consensus ruleset that everyone must follow. Ripple Classic / Social Trust seeks a topological decentralization, where the network is a web of local trust rather than one giant, global competition for a single block. With social trust, every user is their own "mint" -- you decide whom to trust and for how much. Trustless (Bitcoin) vs. trust-based.
