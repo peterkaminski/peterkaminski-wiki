@@ -18,7 +18,7 @@ For a tiny preview, here's a short Pete+Gemini 3 conversation asking about the t
 
 <https://gemini.google.com/share/d25ea79eca5c>
 
-Some of the technical explanation in this email is from that conversation.
+Some of the technical explanation in this email is from that conversation with AI.
 
 A current discussion caught my eye, talking about using Nostr to provide a sync layer to a Ripple-ish payment protocol. I'm a big fan of the Nostr architecture, and at a meta-level, their NIP (Nostr Implementation Possibilities) process, an RFC-like way they iterate collaboratively on standards, so I like it when Nostr pops up in odd contexts. :)
 
